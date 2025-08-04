@@ -281,7 +281,7 @@ img{
     padding: 120px 0;
 }
 
-.team-item{
+.hero-name {
     padding: 32px 0 32px;
 }
 
@@ -345,7 +345,6 @@ img{
     display: flex;
     justify-content: center;
     gap: 24px;
-    margin-top: 8px;
 }
 
 .social-link {
@@ -447,37 +446,6 @@ img{
 .footer-link {
     width: 40px;
     height: 40px;
-}
-
-.instagram-footer,
-.twitter-footer,
-.facebook-footer,
-.linkedin-footer {
-    width: 100%;
-    height: 100%;
-    background-color: #4d5ae5;
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.instagram-footer:hover,
-.instagram-footer:focus,
-.twitter-footer:hover,
-.twitter-footer:focus,
-.facebook-footer:hover,
-.facebook-footer:focus,
-.linkedin-footer:hover,
-.linkedin-footer:focus {
-    background-color: #404bbf;
-    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.footer-content {
-    display: flex;
-    align-items: baseline;
 }
 
 .social-txt {
