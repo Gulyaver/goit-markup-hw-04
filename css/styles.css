@@ -588,6 +588,11 @@ input::placeholder {
     margin-left: 16px;
 }
 
+.subs-btn:hover,
+.subs-btn:focus {
+    background-color: #404bbf;
+}
+
 
 /* modal window */
 
